@@ -34,7 +34,6 @@ _(Note the latest version has the DLLs in the \Net35 and \Net45 subdirectories o
 ```PowerShell
 # AWS SDK Path 
 Add-Type -Path "C:\Program Files (x86)\AWS SDK for .NET\bin\Net45\AWSSDK.EC2.dll"
-Add-Type -Path "C:\Program Files (x86)\AWS SDK for .NET\bin\Net45\AWSSDK.SimpleEmail.dll"
 ```
 
 Add your AWS Access Key, Secret, and Account ID:
